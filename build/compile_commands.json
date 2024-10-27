@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/rashadtubeileh/Desktop/Dev/Vector2D/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/usr/local/opt/llvm/include/c++/v1 -I/Users/rashadtubeileh/Desktop/Dev/Vector2D/src -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/Vector2D.dir/src/main.cpp.o -c /Users/rashadtubeileh/Desktop/Dev/Vector2D/src/main.cpp",
+  "file": "/Users/rashadtubeileh/Desktop/Dev/Vector2D/src/main.cpp",
+  "output": "CMakeFiles/Vector2D.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/rashadtubeileh/Desktop/Dev/Vector2D/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/usr/local/opt/llvm/include/c++/v1 -I/Users/rashadtubeileh/Desktop/Dev/Vector2D/src -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/Vector2D.dir/src/vector2d.cpp.o -c /Users/rashadtubeileh/Desktop/Dev/Vector2D/src/vector2d.cpp",
+  "file": "/Users/rashadtubeileh/Desktop/Dev/Vector2D/src/vector2d.cpp",
+  "output": "CMakeFiles/Vector2D.dir/src/vector2d.cpp.o"
+}
+]
